@@ -1,0 +1,8 @@
+{
+  "name": "Gayathri Care Hospital",
+  "description": "Premium, modern, and responsive website for Gayathri Care Hospital, a world-class multi-speciality healthcare facility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
